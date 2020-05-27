@@ -1,2 +1,2 @@
-# simple-example-autocomplete-JS
-simple example autocomplete using Javascript
+
+# Simple example autocomplete using Javascript
